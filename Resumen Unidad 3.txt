@@ -1,0 +1,7 @@
+En la unidad 3 se hablo sobre Git y GitHub mas que todo, a pesar que sobre los controladores de versiones no solo existe git, pero es el mas usado, lo mismo pasa con GitHub que podemos encontrar mas programas con similitudes a GitHub.
+
+Vimos el tema de como instalar y configurar Git, también como crear la cuenta en GitHub, y los usos que le podemos dar.
+
+Estos temas si son muy importantes ya que muchos programadores los usan a diario y saber que puedo tener un respaldo de los códigos que se creen.
+
+Lo que me costo fue mas que todo en GitHub con las branch y que se pueden crear mas pero que estén ancladas a la branch principal, igual con los comandos de Git pero los pude resolver con pequeños tutoriales de YouTube y los que nos colocaron en clase.

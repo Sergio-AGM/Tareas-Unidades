@@ -1,0 +1,7 @@
+En esta unidad 1, se vieron varios temas como el sistema binario que es el sistema que hablan las computadoras y que se manejan con 0 y 1.
+
+Tambien se vieron la Logica y los Algoritmos en donde la lógica nos brinda lineamientos y herramientas para determinar si un razonamiento es valido o no, y de los algoritmos que son un conjunto de pasos finitos que se tiene que seguir para resolver un problema.
+
+Y por ultimo se vio sobre Programación y Editores de texto, en donde la programación es una serie de pasos para poder generar código fuente y crear un programa con diferentes especificaciones, y los editores de texto en pocas palabras es en donde se coloca el código para así poder crear los programas.
+
+Los temas que mas me interesaron fueron la lógica, los algoritmos y los editores de texto; ya que la lógica y los algoritmos la mayoría de veces se usan en el día a día, y con los editores sabia muy poco sobre ellos.

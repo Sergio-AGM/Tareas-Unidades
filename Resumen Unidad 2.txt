@@ -1,0 +1,9 @@
+En esta unidad 2 ya se vio mas teoría sobre como programar con JavaScript, que fueron los conceptos básicos como que son las variable que son datos que se almacenan en memoria y se puede cambiar su valor durante la ejecución, los tipos de datos y operadores que son una clasificación que define los valores y operaciones que se pueden realizar.
+
+Tambien están las Estructuras de control condicionales que son como bifurcaciones en el camino, ya que si se cumple una condición el programa hace una cosa, sino hace otra.
+
+Otro tipo de Estructuras que vimos son las de control de bucles que nos permiten repetir un bloque o un grupo de instrucciones determinada cantidad de veces.
+
+Para mí, lo más importante fueron los bucles y condicionales. Entender cómo controlar el flujo de un programa es lo que realmente te permite crear aplicaciones que "tomen decisiones" y procesen mucha información de forma eficiente.
+
+Igualmente ese es el tema en el cual tuve un poco de problemas para entender, ya que no sabia en cual usar una condicional y en cual podia aplicar bucles.
